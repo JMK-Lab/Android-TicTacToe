@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TicTacToe V2</string>
+    <string name="game_running">Game running</string>
+    <string name="gameRestart">Play again</string>
+    <string name="victoryPlayer">Player victory !</string>
+    <string name="victoryIA">AI victory !</string>
+    <string name="victoryEquality">Ex aequo</string>
+</resources>
